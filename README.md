@@ -1,4 +1,4 @@
-#webpack
+Tareas-js
 
 Este proyecto inicial para crear aplicaciones que solo usen webpack.
 
